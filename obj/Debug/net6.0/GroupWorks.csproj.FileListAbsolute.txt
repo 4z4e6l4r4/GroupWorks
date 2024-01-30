@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\bin\Debug\net6.0\GroupWorks.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\bin\Debug\net6.0\GroupWorks.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\bin\Debug\net6.0\GroupWorks.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\bin\Debug\net6.0\GroupWorks.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\bin\Debug\net6.0\GroupWorks.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\refint\GroupWorks.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\GroupWorks.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GroupWorks\obj\Debug\net6.0\ref\GroupWorks.dll
